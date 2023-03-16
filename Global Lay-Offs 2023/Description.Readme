@@ -1,0 +1,61 @@
+Power BI Report - Global Lay-offs post Covid-19
+
+
+
+The COVID-19 pandemic has had a significant impact on the global economy, leading to a surge in layoffs and job losses worldwide. As businesses struggled to adapt to the challenges posed by the pandemic, many were forced to make difficult decisions to cut costs and downsize their workforce. The resulting wave of layoffs has had far-reaching consequences, with millions of workers facing uncertainty and financial hardships. 
+
+
+
+I decided to investigate on this topic, to get more insights on the lay-offs post one of the biggest challenges the world has faced. 
+
+
+
+I used the public data source compiled by https://layoffs.fyi/ , 
+
+and downloaded it from 
+
+https://www.kaggle.com/datasets/theakhilb/layoffs-data-2022 
+
+
+
+This dataset had most relevant information that could help answer the following questions
+
+1. Which are the top 10 industries with most lay-offs?
+
+2. Which are the top 10 countries that faced most employees being laid off ? 
+
+3. Which was the worst year in terms of lay-offs?
+
+4. Which are the top 10 companies in the world that laid off most of their employees?
+
+5. At what funding stage the companies get done with most of their employees?
+
+
+
+#ETL :
+
+After EXTRACTING the relevant data, the first and foremost task was to see if we have all the relevant data with us. 
+
+
+
+After looking into the dataset, it was the time to TRANSFORM the data so that we get a perfect analysis and visualization in Power BI Desktop. There were some blanks, and some irrelevant data that would have definitely skewed our results. With the help of Power Query, all the blanks and irrelevant data were done away. The date format was generalized to make sure it doesn't hinder in our process of analysis. 
+
+
+
+Once this data was cleaned, It was time to LOAD the data into Power BI Desktop. 
+
+ 
+
+Upon choosing the appropriate visualizations and letting data tell a story, we found the following outcome.
+
+1. Since the pandemic, Retail and Consumer industry has laid-off most employees, 72,000 employees, in last 3 years, till date.
+
+2. Amazon, Google and Meta are the companies that has laid-off most employees among others. 
+
+3. Most companies have fired their employees Post-IPO stage of their funding.
+
+4. United State saw most people rendered jobless, followed by India. 
+
+5. Around 50% of total employees laid-off were laid-off in 2022 alone, and the 1st quarter of 2023 has seen around 25% of total lay-offs. 
+
+6. You can search specifically in the drop-down on the left side of this Power BI report, and further expand the horizon and get into this data story much deeper. 
