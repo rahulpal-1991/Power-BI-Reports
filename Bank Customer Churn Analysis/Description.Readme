@@ -1,0 +1,34 @@
+Bank Customer Churn Analysis - End to End Power BI Project 
+
+
+
+With the view to handle variety of data, I tried to make a customer churn analysis from the data available.
+
+
+
+The following methods were used while creating and publishing the Power BI Report, the numbers denote the chronology of the steps taken :
+
+
+
+1. Loading and Transforming the data, that included removing blanks and unwanted columns.
+
+2. Creating Date Table that weas utilized for certain time intelligence functions.
+
+3. Data modelling (Star Schema)
+
+4. Creating DAX measures, which can be seen in the "Calculations" in the fields list.
+
+5. Relevant visualization.
+
+6 Narrative was added.
+
+7. Report was published to the Power BI Service.
+
+8. Created Dashboard. 
+
+
+
+A fully functional interactive Power BI reported was created from raw dataset, that tells a beautiful data story and helps us understand more about the business and help us take measures to stop customer leaving the organization.
+
+
+
