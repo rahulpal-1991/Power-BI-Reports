@@ -1,0 +1,15 @@
+The FP20 Analytics Challenge 5 was to develop the client's Mobile Phone Sales Analysis Report from the data provided in an Excel Workbook.
+
+The report was made using the following methodology:-
+1. ETL : The provided data was imported in Power BI desktop with the Get data option, the data contained too many duplicates which were hindrance to our analysis. The foremost step taken was to clean the data, remove duplicates and transform the data by adding some important columns needed for analysis. The clean data was finally loaded for further analysis.
+
+2. Next step included creating several measures using DAX to make sure relevant visuals can be added to the canvas so that our data can tell the insightful story with accuracy.
+
+3. The final step involved creating relevant visuals so that the stakeholders can understand what their sales data say, and take appropriate and logical decisions to enhance their growth further.
+
+Insights:
+1. Overall, Columbia was the top performer country in terms of sales, and the Distributor "Tottus " did a great job in enhancing the sales.
+2. The growth sharply rose after the lifting of Covid restrictions in 2021.
+3. Apple was the most valuable brand followed by Samsung, LG and Motorola, so a targeted marketing strategy will help the rather flat growth.
+4. The forecasted growth tends to remain the same given all the variables remain same.
+5. A robust and dedicated marketing strategy in the upcoming days will surely help the sales grow at a reasonable rate, thus making the financials of the organization stronger.
