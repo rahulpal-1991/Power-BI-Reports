@@ -1,0 +1,18 @@
+Maven Analytics Challenge - Northwind KPI Report
+
+This project is about defining the underlying KPIs for Northwind wherein it was imperative to understand the sales trend, product performance, key customers, key employees, shipping costs, shipping delays and the region where the service is available.
+
+Methodology:
+
+1. ETL: Extracted the given dataset, performed certain transformations including adding some relevant columns and date table to make time intelligence function perform its tasks as and when needed and finally loaded the transformed data.
+
+2. DAX: Used DAX to create calculated columns and measures that ultimately helped in deriving the insights from the raw data and develop relevant KPIs and trends.
+
+3. Visualization: The final stage, where the KPIs and trends are build using the visuals to make all the stakeholders understand the story the data tells and can work towards optimizing their process in a manner that will help the organization grow leaps and bounds.
+
+Insights:
+
+1. The total revenue over 2 years is $1.35M from all the channels.
+2. $63.96K is the total shipping cost and the average shipping cost per order is $79.05.
+3. It takes 8.49 days on average to ship the product to the customer after the order is placed, and the average delay in the shipping is around 6.38 days.
+4. The average sales is higher in the first half of the year as compared to the second half.
